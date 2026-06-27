@@ -1,0 +1,13 @@
+filename,output_filename,emotion,prompt,output_path
+001.wav,001.wav,Neutral,Kids are talking by the door,C:\Users\JIYA KHANNA\OneDrive\Desktop\tts_emotion\synthetic_audio_ravdess\neutral\001.wav
+002.wav,002.wav,Neutral,Dogs are sitting by the door,C:\Users\JIYA KHANNA\OneDrive\Desktop\tts_emotion\synthetic_audio_ravdess\neutral\002.wav
+001.wav,001.wav,Happy,Kids are talking by the door,C:\Users\JIYA KHANNA\OneDrive\Desktop\tts_emotion\synthetic_audio_ravdess\happy\001.wav
+002.wav,002.wav,Happy,Dogs are sitting by the door,C:\Users\JIYA KHANNA\OneDrive\Desktop\tts_emotion\synthetic_audio_ravdess\happy\002.wav
+001.wav,001.wav,Sad,Kids are talking by the door,C:\Users\JIYA KHANNA\OneDrive\Desktop\tts_emotion\synthetic_audio_ravdess\sad\001.wav
+002.wav,002.wav,Sad,Dogs are sitting by the door,C:\Users\JIYA KHANNA\OneDrive\Desktop\tts_emotion\synthetic_audio_ravdess\sad\002.wav
+001.wav,001.wav,Angry,Kids are talking by the door,C:\Users\JIYA KHANNA\OneDrive\Desktop\tts_emotion\synthetic_audio_ravdess\angry\001.wav
+002.wav,002.wav,Angry,Dogs are sitting by the door,C:\Users\JIYA KHANNA\OneDrive\Desktop\tts_emotion\synthetic_audio_ravdess\angry\002.wav
+001.wav,001.wav,Fearful,Kids are talking by the door,C:\Users\JIYA KHANNA\OneDrive\Desktop\tts_emotion\synthetic_audio_ravdess\fearful\001.wav
+002.wav,002.wav,Fearful,Dogs are sitting by the door,C:\Users\JIYA KHANNA\OneDrive\Desktop\tts_emotion\synthetic_audio_ravdess\fearful\002.wav
+001.wav,001.wav,Disgust,Kids are talking by the door,C:\Users\JIYA KHANNA\OneDrive\Desktop\tts_emotion\synthetic_audio_ravdess\disgust\001.wav
+002.wav,002.wav,Disgust,Dogs are sitting by the door,C:\Users\JIYA KHANNA\OneDrive\Desktop\tts_emotion\synthetic_audio_ravdess\disgust\002.wav
