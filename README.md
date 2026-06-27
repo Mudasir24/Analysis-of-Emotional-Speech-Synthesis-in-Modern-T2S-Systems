@@ -68,9 +68,6 @@ modern-tts-emotion-analysis/
 ├── wavlm/
 ├── analysis/
 ├── results/
-├── report/
-├── assets/
-├── requirements.txt
 └── README.md
 ```
 
